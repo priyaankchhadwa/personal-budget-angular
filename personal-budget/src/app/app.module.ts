@@ -28,7 +28,7 @@ import { ContactComponent } from './contact/contact.component';
     LoginComponent,
     P404Component,
     BreadcrumbsComponent,
-    ContactComponent
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
